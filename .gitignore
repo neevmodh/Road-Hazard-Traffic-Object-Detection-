@@ -1,0 +1,10 @@
+data/*
+!data/yolo.yaml
+runs/
+outputs1/
+outputs/
+__pycache__/
+*.pt
+.DS_Store
+.venv/
+frcnn/

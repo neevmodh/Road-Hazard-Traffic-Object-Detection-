@@ -1,0 +1,15 @@
+path: /Users/lalu/road_project/data/yolo_balanced
+
+train: images/train
+val: ../yolo/images/val
+
+names:
+  0: pedestrian
+  1: car
+  2: truck
+  3: bus
+  4: motor
+  5: longitudinal_crack
+  6: transverse_crack
+  7: alligator_crack
+  8: pothole
